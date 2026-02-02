@@ -17,13 +17,13 @@ const contactLinks = [
     name: "YouTube",
     description: "Watch our videos in English, Hindi and Marathi to learn and explore AI, tech, and innovation.",
     icon: <div className="bg-red-500 p-2 rounded-full"><Youtube size={24} className="text-white" /></div>,
-    href: "https://youtube.com/@aiexecute.solutions", 
+    href: "https://youtube.com/@AIExecute_Labsz", 
   },
   {
     name: "Instagram",
     description: "Catch our daily reels and stories on diverse AI & tech topics, shared in a unique and engaging format.",
     icon: <div className="bg-gradient-to-br from-purple-600 via-pink-500 to-red-500 p-2 rounded-full"><Instagram size={24} className="text-white" /></div>,
-    href: "https://instagram.com/aiexecute", 
+    href: "https://instagram.com/aiexecute_labsz", 
   },
   {
     name: "LinkedIn",
@@ -35,13 +35,13 @@ const contactLinks = [
     name: "Mail",
     description: "Reach us anytime for queries, collaborations, or service requests.",
     icon: <div className="bg-gray-600 p-2 rounded-full"><Mail size={24} className="text-white" /></div>,
-    href: "mailto:aiexecute.solutions@gmail.com",
+    href: "mailto:aiexecute.labsz@gmail.com",
   },
   {
     name: "WhatsApp",
     description: "Chat or call us instantly for quick support and inquiries.",
     icon: <div className="bg-green-500 p-2 rounded-full"><FaWhatsapp size={24} className="text-white" /></div>,
-    href: "https://wa.me/919220748788", 
+    href: "https://wa.me/917021152325", 
   },
 ];
 
@@ -95,7 +95,7 @@ const ContactUs = () => {
         
         {/* Footer */}
         <footer className="text-center text-gray-500 pt-20 text-sm tracking-wide">
-          © 2025 AIExecute. All Rights Reserved.
+          © 2026 AIExecute. All Rights Reserved.
         </footer>
       </div>
 
